@@ -1,0 +1,6 @@
+E:\Nahid\LoanCalculatorConsoleTest\LoanCalculatorConsoleTest\bin\Debug\LoanCalculatorConsoleTest.exe.config
+E:\Nahid\LoanCalculatorConsoleTest\LoanCalculatorConsoleTest\bin\Debug\LoanCalculatorConsoleTest.exe
+E:\Nahid\LoanCalculatorConsoleTest\LoanCalculatorConsoleTest\bin\Debug\LoanCalculatorConsoleTest.pdb
+E:\Nahid\LoanCalculatorConsoleTest\LoanCalculatorConsoleTest\obj\Debug\LoanCalculatorConsoleTest.csprojResolveAssemblyReference.cache
+E:\Nahid\LoanCalculatorConsoleTest\LoanCalculatorConsoleTest\obj\Debug\LoanCalculatorConsoleTest.exe
+E:\Nahid\LoanCalculatorConsoleTest\LoanCalculatorConsoleTest\obj\Debug\LoanCalculatorConsoleTest.pdb
